@@ -76,9 +76,9 @@ En nyhetsapp där man kan välja att:
 
 1. Läsa nyheterna som vanligt i ett nyhetsflöde (nyheter från ett API)
 2. Få nyheterna upplästa (text-to-speech API)
-  * Välj kategori (ekonomi, kultur, sport, etc.)
-  * Välj antal nyheter att få upplästa (senaste 10, gårdagens mest lästa, etc.)
-  * Välj med vilket intervall nyheter ska bli upplästa (ex. var 5 minut)
+   * Välj kategori (ekonomi, kultur, sport, etc.)
+   * Välj antal nyheter att få upplästa (senaste 10, gårdagens mest lästa, etc.)
+   * Välj med vilket intervall nyheter ska bli upplästa (ex. var 5 minut)
 
 #### Länkar
 
