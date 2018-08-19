@@ -52,6 +52,8 @@ git clone https://github.com/javascriptst18/ideer-slutprojekt-js18.git
 cd ideer-slutprojekt-js18
 ```
 
+Länktips:
+
 [Markdown Cheatsheet - Hur man skriver markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ***
