@@ -87,7 +87,7 @@ En nyhetsapp där man kan välja att:
 
 Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
 
-[![J.A.R.V.I.S. App](https://www.youtube.com/watch?v=ExVdnT1wqVk/180.jpg)](https://www.youtube.com/watch?v=ExVdnT1wqVk "J.A.R.V.I.S. App")
+[![J.A.R.V.I.S. App](https://www.youtube.com/watch?v=ExVdnT1wqVk/0.jpg)](https://www.youtube.com/watch?v=ExVdnT1wqVk "J.A.R.V.I.S. App")
 
 [News API](https://newsapi.org/)
 
