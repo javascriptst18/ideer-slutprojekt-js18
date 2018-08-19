@@ -96,4 +96,8 @@ Här är några länkar för inspiration, förslag på tekniker, ramverk, biblio
 
 * Lägg till ditt namn här
 
+#### Repos
+
+Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrån idén.
+
 ***
