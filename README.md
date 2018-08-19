@@ -61,8 +61,11 @@ En nyhetsapp där man kan välja att:
 Här är några länkar för inspiration, förslag tekniker, ramverk, bibliotek, APIer, etc.
 
 [News API](https://newsapi.org/)
+
 [Google Cloud text-to-speech API](https://cloud.google.com/text-to-speech/docs/basics)
+
 [Microsoft Azure text-to-speech API](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+
 [ResponsiveVoice.JS](https://responsivevoice.org/)
 
 #### Intressenter
