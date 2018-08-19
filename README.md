@@ -82,7 +82,7 @@ En nyhetsapp där man kan välja att:
 
 #### Länkar
 
-Här är några länkar för inspiration, förslag tekniker, ramverk, bibliotek, APIer, etc.
+Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
 
 [News API](https://newsapi.org/)
 
