@@ -87,6 +87,8 @@ En nyhetsapp där man kan välja att:
 
 Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
 
+[![J.A.R.V.I.S. App](https://www.youtube.com/watch?v=ExVdnT1wqVk/180.jpg)](https://www.youtube.com/watch?v=ExVdnT1wqVk "J.A.R.V.I.S. App")
+
 [News API](https://newsapi.org/)
 
 [Google Cloud text-to-speech API](https://cloud.google.com/text-to-speech/docs/basics)
