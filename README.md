@@ -42,7 +42,7 @@ cd ideer-slutprojekt-js18
 
 ***
 
-## Projekt
+## Projektidéer
 
 ### 1. Nyhetsapp (exempel)
 
