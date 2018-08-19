@@ -50,6 +50,9 @@ Välj mellan att:
 ```bash
 git clone https://github.com/javascriptst18/ideer-slutprojekt-js18.git
 cd ideer-slutprojekt-js18
+
+# Sätt upstream första gången ni pushar med '-u'
+git push -u origin master
 ```
 
 Länktips:
