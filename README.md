@@ -106,3 +106,33 @@ Här är några länkar för inspiration, förslag på tekniker, ramverk, biblio
 Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrån idén.
 
 ***
+
+### 2. Ärendehanteringssystem
+
+#### Beskrivning
+
+En ärendehanteringsapplikation är man kan ta emot och hantera kundrelaterade cases
+
+1. Ta emot, kategorisera och hantera kundcases 
+2. Man ska kunna ändra status på cases
+3. Appen är kopplad till mail inbox
+4. Inloggninssystem med olika roller/behörigheter (t.ex.: admin, manager, support, kund, mm)
+5. Möjlighet att kolla på historiken samt olika rapporter om kundcases (responstid, lösning, mm)
+
+#### Länkar
+
+Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
+
+[Fresh Desk](https://freshdesk.com)
+
+[Zen Desk](https://www.zendesk.com)
+
+#### Intressenter
+
+* Vicente Tirado
+
+#### Repos
+
+Inte ännu 
+
+***
