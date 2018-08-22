@@ -164,3 +164,18 @@ API: https://punkapi.com/documentation/v2
 
 
 ***
+
+### 4. Goodreads för podcast
+
+## Beskrivning
+
+En app för att registrera poddar och poddavsnitt man lyssnat på, där man kan skriva omdömen och sätta betyg, diskutera med andra osv. Som Goodreads är för läsning och TV Time för tv-serier.
+
+Förfinar lite mer på idéen frammåt.
+
+#### Intressenter
+
+* Carl-Axel Hallgren
+
+
+***
