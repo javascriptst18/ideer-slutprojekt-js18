@@ -136,3 +136,31 @@ Här är några länkar för inspiration, förslag på tekniker, ramverk, biblio
 Inte ännu 
 
 ***
+
+### 3. Öl-app från Brewdog
+
+#### Beskrivning
+
+(Det blir på engelska då jag skriver en dårlig mix av norsk och svenska, och for att det låter bättre..)
+
+An app for Brewdog beer lovers! Either you like to drink or brew. 
+1. Search for your favourite beer based on several different parameters 
+2. Match with your favourite food
+3. Find recipes to brew your favourite beer 
+4. Log in and become a part of a community where you can rate, comment and discuss beer in general, or maybe post your own recipe
+5. ..and much more.
+
+En liten pitch från mig där alltså.. man kan såklart utöka appen med flera funktioner om man hinner :)
+
+Jag tänker fokusera på bra funktionalitet och att prosjektet är gjenomförbart.
+
+#### Länkar
+
+API: https://punkapi.com/documentation/v2
+
+#### Intressenter
+
+* Marie Honningdalnes
+
+
+***
