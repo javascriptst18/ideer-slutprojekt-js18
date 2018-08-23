@@ -176,6 +176,7 @@ Förfinar lite mer på idéen frammåt.
 #### Intressenter
 
 * Carl-Axel Hallgren
+* Kajsa Lindholm
 
 
 ***
