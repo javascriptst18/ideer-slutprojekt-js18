@@ -66,6 +66,8 @@ Länktips:
 | Projektnamn                | Gruppmedlemmar                                    | URL                                              |
 | -------------------------- |---------------------------------------------------| ------------------------------------------------ |
 | (Det här är ett exempel)   | Amanda A, Bertil B, Charlotte C, David D, Erika E | [Projektlänk](https://github.com/javascriptst18) |
+| -------------------------- |---------------------------------------------------| ------------------------------------------------ |
+| DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
 
 ***
 
