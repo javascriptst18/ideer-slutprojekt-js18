@@ -365,3 +365,19 @@ En applikation som kategoriserar och listar alla aktuella fejder mellan kändisa
 * Jesper Orb
 
 ---
+
+### 17. Shit Pitch
+
+## Beskrivning
+
+Idén är tagen från twitterkontot [Shit Pitches™](https://twitter.com/shit_pitches?lang=en). I applikationen ska användaren kunna skicka in sina dåliga filmidéer kopplat till vilken/vilka skådespelare som ska vara huvudpersoner i filmen. Man ska sedan kunna rösta på olika idéer om de skulle kunna bli film eller om dom är väldigt roliga bara. Man ska kunna söka efter vissa skådespelare så att användaren ska kunna få upp en lista på idéer där Steven Seagal spelar huvudrollen. Vidare ska även genrer vara kopplade till varje film så att man kan även söka på t.ex. _action_.
+
+Exempel på pitches:
+> **Spy Grandma:** Maggie Smith have to join the force once again at the age of 90 when a money laundry cartel runs their scheme through an elderly home.
+> **Oboes of Destiny**: Tom Hanks as a beginner oboe player get accidentally invited to the Oboe World Championship. Winona Ryder is the top player in the world and has issues with the newcomer but warmer feelings soon begin to evolve.
+
+### Intressenter
+
+* Namn här
+
+---
