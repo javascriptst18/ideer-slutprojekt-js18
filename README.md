@@ -109,9 +109,9 @@ Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrå
 
 ***
 
-## 2. Ärendehanteringssystem
+### 2. Ärendehanteringssystem
 
-### Beskrivning
+#### Beskrivning
 
 En ärendehanteringsapplikation är man kan ta emot och hantera kundrelaterade cases
 
@@ -139,9 +139,9 @@ Inte ännu
 
 ***
 
-## 3. Öl-app från Brewdog
+### 3. Öl-app från Brewdog
 
-### Beskrivning
+#### Beskrivning
 
 (Det blir på engelska då jag skriver en dårlig mix av norsk och svenska, och for att det låter bättre..)
 
@@ -167,9 +167,9 @@ API: https://punkapi.com/documentation/v2
 
 ***
 
-## 4. Goodreads för podcast
+### 4. Goodreads för podcast
 
-### Beskrivning
+#### Beskrivning
 
 En app för att registrera poddar och poddavsnitt man lyssnat på, där man kan skriva omdömen och sätta betyg, diskutera med andra osv. Som Goodreads är för läsning och TV Time för tv-serier.
 
@@ -183,9 +183,9 @@ Förfinar lite mer på idéen frammåt.
 
 ***
 
-## 5. Non-dating app
+### 5. Non-dating app
 
-### Beskrivning
+#### Beskrivning
 
 En app där man kan träffa folk utan att dejta, som känner av var jag är och jag kan skriva typ:
 
@@ -206,9 +206,9 @@ Man ska kunna välja kön och mellan vilka åldrar.
 
 ***
 
-## 6. Utflyktsapp
+### 6. Utflyktsapp
 
-### Beskrivning
+#### Beskrivning
 
 En app som känner av var på kartan jag är, så kan jag fylla i om jag går, cyklar eller åker bil och hur lång tid eller hur lång sträcka jag vill förflytta mig. 
 
@@ -228,9 +228,9 @@ Då ser man vart man hamnar, så man inte går och går och vips är man i ett i
 
 ***
 
-## 7. Namnlös app
+### 7. Namnlös app
 
-### Beskrivning
+#### Beskrivning
 
 Hade varit smart att ha en app där det hela går tillväga ungefär såhär.
 * Skapa kategorier som passar i ens liv. Hushåll, hund etc.
@@ -243,9 +243,9 @@ Hade varit smart att ha en app där det hela går tillväga ungefär såhär.
 
 ***
 
-## 8. Migrändagbok
+### 8. Migrändagbok
 
-### Beskrivning
+#### Beskrivning
 
 Migrändagbok/Humördagbok/Smärtdagbok på svenska
 
@@ -255,9 +255,9 @@ Migrändagbok/Humördagbok/Smärtdagbok på svenska
 
 ***
 
-## 9. App för lästa böcker
+### 9. App för lästa böcker
 
-### Beskrivning
+#### Beskrivning
 
 En app där jag enkelt kan lägga till de böcker jag redan har läst. De appar jag har sett idag bygger på köphistorik, dvs då kommer inte alla med, bara de från denna site. 
 
@@ -269,9 +269,9 @@ Förslag på vad jag kanske vill läsa utifrån vad jag läst.
 
 ***
 
-## 10. Global Reseplanerare
+### 10. Global Reseplanerare
 
-### Beskrivning
+#### Beskrivning
 
 En bokningsapp för alla tåg (eller andra transportsätt förutom flyg) i Europa. Har inte letat så noga men det senaste har jag hört om många som tycker att det är väldigt krångligt att ta sig runt i Europa om man inte vill flyga.
 
@@ -281,9 +281,9 @@ En bokningsapp för alla tåg (eller andra transportsätt förutom flyg) i Europ
 
 ***
 
-## 11. Carbon Footprint / Klimatapp
+### 11. Carbon Footprint / Klimatapp
 
-### Beskrivning
+#### Beskrivning
 
 En app som jämför och håller koll på klimatavtrycket av saker man gör och köper. Jag tror vi alla måste lära oss mer att värdera klimatavtryck på samma sätt som vi värderar våra pengar. Typ hur mycket co2 motsvarar en bok, en öl, en taxiresa etc. 
 
@@ -295,9 +295,9 @@ Informationen finns säkert därute, men vore så användbart att alltid ha dett
 
 ***
 
-## 12. Parkeringsapp
+### 12. Parkeringsapp
 
-### Beskrivning
+#### Beskrivning
 
 Tror du skulle kunna tjäna pengar på en app som samlar ihop alla olika jäkla parkeringsappar i en och samma. Så kan man betala och sköta allt via en app istället för en massa olika
 
@@ -307,9 +307,9 @@ Tror du skulle kunna tjäna pengar på en app som samlar ihop alla olika jäkla 
 
 ***
 
-## 13. App för schema / planering
+### 13. App för schema / planering
 
-### Beskrivning
+#### Beskrivning
 
 Schema app för skola/vardag/arbete uppbyggt av bildstöd. Även med stöd för timstock. 
 Fördjupning: om man väljer ett lektionspass i skolan så ser man även vad man förväntas göra på den lektionen. 
@@ -324,9 +324,9 @@ Tänkt målgrupp: yngre barn med behov av extra stöd, träningsskolor, gruppboe
 
 ***
 
-## 14. App för recept
+### 14. App för recept
 
-### Beskrivning
+#### Beskrivning
 
 En app där man kan spara sina recept som man googlat fram. Nu sparar man ju oftast ett bokmärke till länken men man tappar tyvärr många recept när sidor flyttas eller bloggar läggs ner. (liknande ska vara Stowr eller Paprikaapp)
 
