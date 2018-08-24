@@ -321,10 +321,11 @@ Tänkt målgrupp: yngre barn med behov av extra stöd, träningsskolor, gruppboe
 #### Intressenter
 
 <<<<<<< HEAD
-- Namn här
-=======
+
+- # Namn här
+
 * Carl-Axel Hallgren (Dock inte om målgrupp är barn, mer intresserad av en app för den professionella)
->>>>>>> e8e09af69d1033df28b32176d6258cce2fc653c8
+  > > > > > > > e8e09af69d1033df28b32176d6258cce2fc653c8
 
 ---
 
@@ -345,6 +346,7 @@ En app där man kan spara sina recept som man googlat fram. Nu sparar man ju oft
 #### Beskrivning
 
 En app som märker ut events på en karta i närheten av användaren eller på sökt plats.
+Det här alltså samma event app ide som min grupp hade under UX dagarna.
 
 Möjliga api:er att hämta event data från:
 tickster.com (api nyckel finns)
@@ -353,8 +355,4 @@ tickster.com (api nyckel finns)
 
 - Felipe
 
-<<<<<<< HEAD
 ---
-=======
-***
->>>>>>> e8e09af69d1033df28b32176d6258cce2fc653c8
