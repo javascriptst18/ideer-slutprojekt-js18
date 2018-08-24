@@ -182,3 +182,156 @@ Förfinar lite mer på idéen frammåt.
 
 
 ***
+
+### 5. Non-dating app
+
+## Beskrivning
+
+En app där man kan träffa folk utan att dejta, som känner av var jag är och jag kan skriva typ:
+
+`Sitter på centralen, tåget är försenat och jag har en kortlek.`
+
+`Jag tänkte ta en vända i elljusspåret men tycker det är lite otäckt när det är mörkt, sällskap sökes.`
+
+`Har bokat teater, sällskapet magsjuk men biljetten betald.`
+
+`Hjälper du mig att köra till tippen bjuder jag på middag.`
+
+Sen kan man se alla inbjudningar som finns runt där man befinner sig. 
+Man ska kunna välja kön och mellan vilka åldrar. 
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 6. Utflyktsapp
+
+## Beskrivning
+
+En app som känner av var på kartan jag är, så kan jag fylla i om jag går, cyklar eller åker bil och hur lång tid eller hur lång sträcka jag vill förflytta mig. 
+
+Tex en timma eller 15 mil och då ser var jag hamnar då, i alla väderstreck. Man ska även kunna välja väderstreck.
+
+Tycker den skulle vara användbar när man har husbil/husvagn och är på väg genom Europa, på tex Autobahn och vill köra i kanske två timmar, vart hamnar jag då?
+
+Eller om man vill åka en sväng när man är på ett nytt ställe, för att se vart man hamnar på en timma eller 15 mil. 
+
+Eller om man är på ett nytt ställe och vill gå en hundpromenad eller ta en cykeltur på en timma och man inte känner till omgivningen. 
+
+Då ser man vart man hamnar, så man inte går och går och vips är man i ett industriområde.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 7. Namnlös app
+
+## Beskrivning
+
+Hade varit smart att ha en app där det hela går tillväga ungefär såhär.
+* Skapa kategorier som passar i ens liv. Hushåll, hund etc.
+* Fota kvittot, appen digitaliserar texten.
+* Själva delandet av kvittot fungerar med enkelt "drag & drop". Dvs man klickar på raden som lyder ex "Tomater 1 kg 26kr" och drar å släpper sen den över vilken kategorii man vill att den utgiften ska hamna i. Kanske även så att raden med tomater då försvinner från kvittot? Så att man enkelt ser vad man sorterat och inte.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 8. Migrändagbok
+
+## Beskrivning
+
+Migrändagbok/Humördagbok/Smärtdagbok på svenska
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 9. App för lästa böcker
+
+## Beskrivning
+
+En app där jag enkelt kan lägga till de böcker jag redan har läst. De appar jag har sett idag bygger på köphistorik, dvs då kommer inte alla med, bara de från denna site. 
+
+Förslag på vad jag kanske vill läsa utifrån vad jag läst.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 10. Global Reseplanerare
+
+## Beskrivning
+
+En bokningsapp för alla tåg (eller andra transportsätt förutom flyg) i Europa. Har inte letat så noga men det senaste har jag hört om många som tycker att det är väldigt krångligt att ta sig runt i Europa om man inte vill flyga.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 11. Carbon Footprint / Klimatapp
+
+## Beskrivning
+
+En app som jämför och håller koll på klimatavtrycket av saker man gör och köper. Jag tror vi alla måste lära oss mer att värdera klimatavtryck på samma sätt som vi värderar våra pengar. Typ hur mycket co2 motsvarar en bok, en öl, en taxiresa etc. 
+
+Informationen finns säkert därute, men vore så användbart att alltid ha detta tillgängligt och väl presenterat i appform.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 12. Parkeringsapp
+
+## Beskrivning
+
+Tror du skulle kunna tjäna pengar på en app som samlar ihop alla olika jäkla parkeringsappar i en och samma. Så kan man betala och sköta allt via en app istället för en massa olika
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 13. App för schema / planering
+
+## Beskrivning
+
+Schema app för skola/vardag/arbete uppbyggt av bildstöd. Även med stöd för timstock. 
+Fördjupning: om man väljer ett lektionspass i skolan så ser man även vad man förväntas göra på den lektionen. 
+
+Stöd för kamera för att kunna fota in uppgifter.
+
+Tänkt målgrupp: yngre barn med behov av extra stöd, träningsskolor, gruppboenden osv.
+
+#### Intressenter
+
+* Namn här
+
+***
+
+### 14. App för recept
+
+## Beskrivning
+
+En app där man kan spara sina recept som man googlat fram. Nu sparar man ju oftast ett bokmärke till länken men man tappar tyvärr många recept när sidor flyttas eller bloggar läggs ner. (liknande ska vara Stowr eller Paprikaapp)
+
+#### Intressenter
+
+* Namn här
+
+***
