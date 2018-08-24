@@ -320,7 +320,7 @@ Tänkt målgrupp: yngre barn med behov av extra stöd, träningsskolor, gruppboe
 
 #### Intressenter
 
-* Namn här
+* Carl-Axel Hallgren (Dock inte om målgrupp är barn, mer intresserad av en app för den professionella)
 
 ***
 
