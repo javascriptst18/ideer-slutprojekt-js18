@@ -356,3 +356,15 @@ tickster.com (api nyckel finns)
 - Felipe
 
 ---
+
+### 16. What's Beef
+
+## Beskrivning
+
+En applikation som kategoriserar och listar alla aktuella fejder mellan kändisar som pågår. Man ska kunna enkelt se fejdens ursprung, när den senaste händelsen ägde rum och vad det handlade om. Man ska även kunna se de senaste fejderna samt de äldsta fejderna samt de längst pågående. Gärna med en horisontell tidslinje där man enkelt kan få en överblick över händelseförloppet. Man ska kunna klicka sig vidare på en av dessa kändisar och se relaterade fejder samt vilka fejder som denne kändis mer är med i. Bonus är om varje fejd har _"shade points"_ där varje inloggad användare kan rösta på hur pass infekterad fejden är.
+
+#### Intressenter
+
+* Jesper Orb
+
+---
