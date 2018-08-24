@@ -63,11 +63,11 @@ Länktips:
 
 ## Grupper
 
-| Projektnamn                | Gruppmedlemmar                                      | URL                                              |
-| -------------------------- | --------------------------------------------------- | ------------------------------------------------ |
-| (Det här är ett exempel)   | Amanda A, Bertil B, Charlotte C, David D, Erika E   | [Projektlänk](https://github.com/javascriptst18) |
-| -------------------------- | --------------------------------------------------- | ------------------------------------------------ |
-| DARE                       | Peder, Gustav, Johannes, Kajsa                      | [Projektlänk](https://github.com/javascriptst18) |
+| Projektnamn                | Gruppmedlemmar                                    | URL                                              |
+| -------------------------- |---------------------------------------------------| ------------------------------------------------ |
+| DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
+| Spel                       | Markus, Jens, Anton                               | [Projektlänk](https://github.com/javascriptst18) |
+| Chat App                   | Vicente, Alan, Igor                               | [Projektlänk](https://github.com/javascriptst18) |
 
 ---
 
