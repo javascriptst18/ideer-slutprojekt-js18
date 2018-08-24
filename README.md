@@ -4,9 +4,9 @@
 
 ### Syfte
 
-Syftet med det här repot är att samla idéer och förslag på eventuella slutprojekt. 
+Syftet med det här repot är att samla idéer och förslag på eventuella slutprojekt.
 
-Istället för att välja grupp först, och därefter besluta sig för vad gruppen ska ha för slutprojekt, kan det vara lättare att välja grupper utifrån vad alla är intresserade av att utveckla. 
+Istället för att välja grupp först, och därefter besluta sig för vad gruppen ska ha för slutprojekt, kan det vara lättare att välja grupper utifrån vad alla är intresserade av att utveckla.
 
 På så sätt undviker vi förhoppningsvis missnöjda gruppmedlemmar som känner att slutprojektet inte alls ligger i linje med vad hen vill göra.
 
@@ -20,13 +20,13 @@ Tycker man att en idé låter intressant men känner sig osäker på om den ens 
 
 ### Spin-offs / contributions
 
-Bygg gärna vidare på varandras projekt och idéer, men om någon/några har kommit en bit på vägen kan det vara klokt att fråga sig för innan ni pushar omfattande ändringar. 
+Bygg gärna vidare på varandras projekt och idéer, men om någon/några har kommit en bit på vägen kan det vara klokt att fråga sig för innan ni pushar omfattande ändringar.
 
-Om ett projekt börjar få en tydlig grupp (oavsett vem som kom på idén) är det fritt fram att skapa ett nytt repo på någon av era egna GitHub-konton för att driva projektet vidare. 
+Om ett projekt börjar få en tydlig grupp (oavsett vem som kom på idén) är det fritt fram att skapa ett nytt repo på någon av era egna GitHub-konton för att driva projektet vidare.
 
 ### Gruppinfo
 
-Lägg gärna till en kommentar under rubriken _grupper_ om ni har skapat en grupp och valt att driva projektet vidare inom gruppen. 
+Lägg gärna till en kommentar under rubriken _grupper_ om ni har skapat en grupp och valt att driva projektet vidare inom gruppen.
 
 Lägg in vilka som ingår i gruppen, och länka till er grupps projektrepo (för att vi andra ska kunna följa projektet, inte för att vi ska gå in och contributa).
 
@@ -38,7 +38,7 @@ Tanken är att det ska vara fritt fram för alla att bidra som dom vill, helt pr
 
 MIT License, så håll det öppet, ärligt och snyggt.
 
-***
+---
 
 ## Medverka
 
@@ -59,17 +59,17 @@ Länktips:
 
 [Markdown Cheatsheet - Hur man skriver markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-***
+---
 
 ## Grupper
 
-| Projektnamn                | Gruppmedlemmar                                    | URL                                              |
-| -------------------------- |---------------------------------------------------| ------------------------------------------------ |
-| (Det här är ett exempel)   | Amanda A, Bertil B, Charlotte C, David D, Erika E | [Projektlänk](https://github.com/javascriptst18) |
-| -------------------------- |---------------------------------------------------| ------------------------------------------------ |
-| DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
+| Projektnamn                | Gruppmedlemmar                                      | URL                                              |
+| -------------------------- | --------------------------------------------------- | ------------------------------------------------ |
+| (Det här är ett exempel)   | Amanda A, Bertil B, Charlotte C, David D, Erika E   | [Projektlänk](https://github.com/javascriptst18) |
+| -------------------------- | --------------------------------------------------- | ------------------------------------------------ |
+| DARE                       | Peder, Gustav, Johannes, Kajsa                      | [Projektlänk](https://github.com/javascriptst18) |
 
-***
+---
 
 ## Projektidéer
 
@@ -81,15 +81,15 @@ En nyhetsapp där man kan välja att:
 
 1. Läsa nyheterna som vanligt i ett nyhetsflöde (nyheter från ett API)
 2. Få nyheterna upplästa (text-to-speech API)
-   * Välj kategori (ekonomi, kultur, sport, etc.)
-   * Välj antal nyheter att få upplästa (senaste 10, gårdagens mest lästa, etc.)
-   * Välj med vilket intervall nyheter ska bli upplästa (ex. var 5 minut)
+   - Välj kategori (ekonomi, kultur, sport, etc.)
+   - Välj antal nyheter att få upplästa (senaste 10, gårdagens mest lästa, etc.)
+   - Välj med vilket intervall nyheter ska bli upplästa (ex. var 5 minut)
 
 #### Länkar
 
 Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
 
-[![alt text](https://img.youtube.com/vi/ExVdnT1wqVk/maxres2.jpg)](https://youtu.be/ExVdnT1wqVk?t=3m45s "J.A.R.V.I.S. App")
+[![alt text](https://img.youtube.com/vi/ExVdnT1wqVk/maxres2.jpg)](https://youtu.be/ExVdnT1wqVk?t=3m45s 'J.A.R.V.I.S. App')
 
 [News API](https://newsapi.org/)
 
@@ -101,13 +101,13 @@ Här är några länkar för inspiration, förslag på tekniker, ramverk, biblio
 
 #### Intressenter
 
-* Lägg till ditt namn här
+- Lägg till ditt namn här
 
 #### Repos
 
 Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrån idén.
 
-***
+---
 
 ### 2. Ärendehanteringssystem
 
@@ -115,7 +115,7 @@ Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrå
 
 En ärendehanteringsapplikation är man kan ta emot och hantera kundrelaterade cases
 
-1. Ta emot, kategorisera och hantera kundcases 
+1. Ta emot, kategorisera och hantera kundcases
 2. Man ska kunna ändra status på cases
 3. Appen är kopplad till mail inbox
 4. Inloggninssystem med olika roller/behörigheter (t.ex.: admin, manager, support, kund, mm)
@@ -131,13 +131,13 @@ Här är några länkar för inspiration, förslag på tekniker, ramverk, biblio
 
 #### Intressenter
 
-* Vicente Tirado
+- Vicente Tirado
 
 #### Repos
 
-Inte ännu 
+Inte ännu
 
-***
+---
 
 ### 3. Öl-app från Brewdog
 
@@ -145,10 +145,11 @@ Inte ännu
 
 (Det blir på engelska då jag skriver en dårlig mix av norsk och svenska, och for att det låter bättre..)
 
-An app for Brewdog beer lovers! Either you like to drink or brew. 
-1. Search for your favourite beer based on several different parameters 
+An app for Brewdog beer lovers! Either you like to drink or brew.
+
+1. Search for your favourite beer based on several different parameters
 2. Match with your favourite food
-3. Find recipes to brew your favourite beer 
+3. Find recipes to brew your favourite beer
 4. Log in and become a part of a community where you can rate, comment and discuss beer in general, or maybe post your own recipe
 5. ..and much more.
 
@@ -162,10 +163,9 @@ API: https://punkapi.com/documentation/v2
 
 #### Intressenter
 
-* Marie Honningdalnes
+- Marie Honningdalnes
 
-
-***
+---
 
 ### 4. Goodreads för podcast
 
@@ -177,11 +177,10 @@ Förfinar lite mer på idéen frammåt.
 
 #### Intressenter
 
-* Carl-Axel Hallgren
-* Kajsa Lindholm
+- Carl-Axel Hallgren
+- Kajsa Lindholm
 
-
-***
+---
 
 ### 5. Non-dating app
 
@@ -197,51 +196,52 @@ En app där man kan träffa folk utan att dejta, som känner av var jag är och 
 
 `Hjälper du mig att köra till tippen bjuder jag på middag.`
 
-Sen kan man se alla inbjudningar som finns runt där man befinner sig. 
-Man ska kunna välja kön och mellan vilka åldrar. 
+Sen kan man se alla inbjudningar som finns runt där man befinner sig.
+Man ska kunna välja kön och mellan vilka åldrar.
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 6. Utflyktsapp
 
 #### Beskrivning
 
-En app som känner av var på kartan jag är, så kan jag fylla i om jag går, cyklar eller åker bil och hur lång tid eller hur lång sträcka jag vill förflytta mig. 
+En app som känner av var på kartan jag är, så kan jag fylla i om jag går, cyklar eller åker bil och hur lång tid eller hur lång sträcka jag vill förflytta mig.
 
 Tex en timma eller 15 mil och då ser var jag hamnar då, i alla väderstreck. Man ska även kunna välja väderstreck.
 
 Tycker den skulle vara användbar när man har husbil/husvagn och är på väg genom Europa, på tex Autobahn och vill köra i kanske två timmar, vart hamnar jag då?
 
-Eller om man vill åka en sväng när man är på ett nytt ställe, för att se vart man hamnar på en timma eller 15 mil. 
+Eller om man vill åka en sväng när man är på ett nytt ställe, för att se vart man hamnar på en timma eller 15 mil.
 
-Eller om man är på ett nytt ställe och vill gå en hundpromenad eller ta en cykeltur på en timma och man inte känner till omgivningen. 
+Eller om man är på ett nytt ställe och vill gå en hundpromenad eller ta en cykeltur på en timma och man inte känner till omgivningen.
 
 Då ser man vart man hamnar, så man inte går och går och vips är man i ett industriområde.
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 7. Namnlös app
 
 #### Beskrivning
 
 Hade varit smart att ha en app där det hela går tillväga ungefär såhär.
-* Skapa kategorier som passar i ens liv. Hushåll, hund etc.
-* Fota kvittot, appen digitaliserar texten.
-* Själva delandet av kvittot fungerar med enkelt "drag & drop". Dvs man klickar på raden som lyder ex "Tomater 1 kg 26kr" och drar å släpper sen den över vilken kategorii man vill att den utgiften ska hamna i. Kanske även så att raden med tomater då försvinner från kvittot? Så att man enkelt ser vad man sorterat och inte.
+
+- Skapa kategorier som passar i ens liv. Hushåll, hund etc.
+- Fota kvittot, appen digitaliserar texten.
+- Själva delandet av kvittot fungerar med enkelt "drag & drop". Dvs man klickar på raden som lyder ex "Tomater 1 kg 26kr" och drar å släpper sen den över vilken kategorii man vill att den utgiften ska hamna i. Kanske även så att raden med tomater då försvinner från kvittot? Så att man enkelt ser vad man sorterat och inte.
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 8. Migrändagbok
 
@@ -251,23 +251,23 @@ Migrändagbok/Humördagbok/Smärtdagbok på svenska
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 9. App för lästa böcker
 
 #### Beskrivning
 
-En app där jag enkelt kan lägga till de böcker jag redan har läst. De appar jag har sett idag bygger på köphistorik, dvs då kommer inte alla med, bara de från denna site. 
+En app där jag enkelt kan lägga till de böcker jag redan har läst. De appar jag har sett idag bygger på köphistorik, dvs då kommer inte alla med, bara de från denna site.
 
 Förslag på vad jag kanske vill läsa utifrån vad jag läst.
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 10. Global Reseplanerare
 
@@ -277,23 +277,23 @@ En bokningsapp för alla tåg (eller andra transportsätt förutom flyg) i Europ
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 11. Carbon Footprint / Klimatapp
 
 #### Beskrivning
 
-En app som jämför och håller koll på klimatavtrycket av saker man gör och köper. Jag tror vi alla måste lära oss mer att värdera klimatavtryck på samma sätt som vi värderar våra pengar. Typ hur mycket co2 motsvarar en bok, en öl, en taxiresa etc. 
+En app som jämför och håller koll på klimatavtrycket av saker man gör och köper. Jag tror vi alla måste lära oss mer att värdera klimatavtryck på samma sätt som vi värderar våra pengar. Typ hur mycket co2 motsvarar en bok, en öl, en taxiresa etc.
 
 Informationen finns säkert därute, men vore så användbart att alltid ha detta tillgängligt och väl presenterat i appform.
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 12. Parkeringsapp
 
@@ -303,16 +303,16 @@ Tror du skulle kunna tjäna pengar på en app som samlar ihop alla olika jäkla 
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 13. App för schema / planering
 
 #### Beskrivning
 
-Schema app för skola/vardag/arbete uppbyggt av bildstöd. Även med stöd för timstock. 
-Fördjupning: om man väljer ett lektionspass i skolan så ser man även vad man förväntas göra på den lektionen. 
+Schema app för skola/vardag/arbete uppbyggt av bildstöd. Även med stöd för timstock.
+Fördjupning: om man väljer ett lektionspass i skolan så ser man även vad man förväntas göra på den lektionen.
 
 Stöd för kamera för att kunna fota in uppgifter.
 
@@ -320,9 +320,9 @@ Tänkt målgrupp: yngre barn med behov av extra stöd, träningsskolor, gruppboe
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
 
 ### 14. App för recept
 
@@ -332,6 +332,21 @@ En app där man kan spara sina recept som man googlat fram. Nu sparar man ju oft
 
 #### Intressenter
 
-* Namn här
+- Namn här
 
-***
+---
+
+### 15. Event app
+
+#### Beskrivning
+
+En app som märker ut events på en karta i närheten av användaren eller på sökt plats.
+
+Möjliga api:er att hämta event data från:
+tickster.com (api nyckel finns)
+
+#### Intressenter
+
+- Felipe
+
+---
