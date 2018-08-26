@@ -381,3 +381,25 @@ Exempel på pitches:
 * Namn här
 
 ---
+### 18. Imageboard
+
+## Beskrivning
+
+En enkel, användarvänlig och snygg s.k. imageboard. En imageboard är en typ av forum liknande 4chan eller Jodel, där man kan skapa trådar och inlägg med text, bilder och mindre videos som andra sedan kan svara på och citera. 
+
+Man kan antingen välja att skapa ett konto och posta, eller posta anonymt. Om man postar anonymt måste man dock gå igenom en irriterande s.k. reCAPTCHA challenge (Se länk nedan) innan varje post, för att förhindra spam och skapa incitament att registrera sig som användare. 
+
+4chan och Jodel har "inget minne" utan har bara plats för ett bestämt antal trådar samtidigt, i den s.k. katalogen (max 50 trådar kan vara en bra gräns). Alla trådar raderas efter ett max antal svar, eller om tråden är impopulär och inte får några svar alls - och således snabbt halkar nedåt i trådordningen och ut ur katalogen.
+
+Fördelar: 
+Iden genomförs troligen med enkelhet i webbutförande, med tanke på alla todos vi lyckats skapa den senaste veckan (med autentisering) och forumet som vissa kanske lyckades bygga lite på tidigare i utbildningen. Finns det tid över kan vi göra en native-version och bygga en app.
+
+Svårigheter:
+Implementera snabb, användarvänlig och välfungerande uppladdning, leverans och lagring i en databas av media - bilder, ljud och video.
+
+reCAPTCHA: https://developers.google.com/recaptcha/
+Exempel: http://boards.4chan.org/g/ (Technology)
+https://www.jodel-app.com/
+
+### Intressenter
+* Jeremias Hillerberg
