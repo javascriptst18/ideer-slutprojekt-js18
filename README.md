@@ -65,6 +65,7 @@ Länktips:
 
 | Projektnamn                | Gruppmedlemmar                                    | URL                                              |
 | -------------------------- |---------------------------------------------------| ------------------------------------------------ |
+| Plock                      | Felix, Malcolm                                    | [Plock](https://github.com/fehawen/plock-app)    |
 | DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
 | Spel                       | Markus, Jens, Anton                               | [Projektlänk](https://github.com/javascriptst18) |
 | Chat App                   | Vicente, Alan, Igor                               | [Projektlänk](https://github.com/javascriptst18) |
@@ -73,39 +74,23 @@ Länktips:
 
 ## Projektidéer
 
-### 1. Nyhetsapp (exempel)
+### 1. Plock
 
 #### Beskrivning
 
-En nyhetsapp där man kan välja att:
+An application where users can:
 
-1. Läsa nyheterna som vanligt i ett nyhetsflöde (nyheter från ett API)
-2. Få nyheterna upplästa (text-to-speech API)
-   - Välj kategori (ekonomi, kultur, sport, etc.)
-   - Välj antal nyheter att få upplästa (senaste 10, gårdagens mest lästa, etc.)
-   - Välj med vilket intervall nyheter ska bli upplästa (ex. var 5 minut)
+* Find crops to pick from other users' trees or gardens.
+* Share crops from their own trees or gardens for other users to pick.
 
-#### Länkar
+#### Medlemmar
 
-Här är några länkar för inspiration, förslag på tekniker, ramverk, bibliotek, APIer, etc.
-
-[![alt text](https://img.youtube.com/vi/ExVdnT1wqVk/maxres2.jpg)](https://youtu.be/ExVdnT1wqVk?t=3m45s 'J.A.R.V.I.S. App')
-
-[News API](https://newsapi.org/)
-
-[Google Cloud text-to-speech API](https://cloud.google.com/text-to-speech/docs/basics)
-
-[Microsoft Azure text-to-speech API](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
-
-[ResponsiveVoice.JS](https://responsivevoice.org/)
-
-#### Intressenter
-
-- Lägg till ditt namn här
+- Malcolm Horal
+- Felix Hägglund Wennergren
 
 #### Repos
 
-Länka eventuella repos här om någon börjat bygga/testa/experimentera utifrån idén.
+[Plock](https://github.com/fehawen/plock-app)
 
 ---
 
