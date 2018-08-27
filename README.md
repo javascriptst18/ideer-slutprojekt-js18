@@ -69,7 +69,7 @@ Länktips:
 | DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
 | Spel                       | Markus, Jens, Anton                               | [Projektlänk](https://github.com/javascriptst18) |
 | Chat App                   | Vicente, Alan, Igor                               | [Projektlänk](https://github.com/javascriptst18) |
-
+| Resursbokningssystem       | Jeremias, Denizhan                                | [Projektlänk](https://github.com/javascriptst18) |
 ---
 
 ## Projektidéer
@@ -387,4 +387,20 @@ Exempel: http://boards.4chan.org/g/ (Technology)
 https://www.jodel-app.com/
 
 ### Intressenter
-* Jeremias Hillerberg
+
+* Namn här
+
+---
+
+### 19. Resursbokningssystem
+
+#### Beskrivning
+
+Ett användarvänligt och snabbt system där det är möjligt att boka olika resurser som t.ex. lokaler, teknisk utrustning, fordon eller liknande. Det ska vara lätt att se vad som är ledigt eller upptaget, vilken tid detta gäller samt vem som har utfört bokningen. För att kunna boka måste man vara en behörig användare i systemet. För att kunna lägga upp nya resurser måste man vara administratör.
+
+#### Intressenter
+
+- Jeremias Hillerberg
+- Denizhan Kilic
+
+---
