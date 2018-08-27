@@ -65,7 +65,7 @@ Länktips:
 
 | Projektnamn                | Gruppmedlemmar                                    | URL                                              |
 | -------------------------- |---------------------------------------------------| ------------------------------------------------ |
-| Plock                      | Felix, Malcolm                                    | [Plock](https://github.com/fehawen/plock-app)    |
+| Plock                      | Felix, Malcolm, Sebastian                         | [Plock](https://github.com/fehawen/plock-app)    |
 | DARE                       | Peder, Gustav, Johannes, Kajsa                    | [Projektlänk](https://github.com/javascriptst18) |
 | Spel                       | Markus, Jens, Anton                               | [Projektlänk](https://github.com/javascriptst18) |
 | Chat App                   | Vicente, Alan, Igor                               | [Projektlänk](https://github.com/javascriptst18) |
